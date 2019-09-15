@@ -7,4 +7,4 @@ Saw a flaw in campus recruitment coding round and built a program around it.
 * **Alt+L** to get the count of list.
 * **Alt+num** will index the list and send the data to keyboard buffer(simulates typing of data).<br/>
 Use **PyInstaller** to bundle the program and all its dependencies into a single package<br/>
-**This program is developed mainly for educational purposes. Do not use it for placements or for any illegal activities.**
+**This program is developed mainly for educational purpose. Do not use it for placements or for any illegal activities.**
